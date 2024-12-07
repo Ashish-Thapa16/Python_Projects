@@ -1,2 +1,2 @@
 # Python_Projects
-Basic logic building projects.
+Basic to Intermediate Projects for logic building.
